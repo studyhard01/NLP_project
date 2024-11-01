@@ -19,6 +19,11 @@
 - [하석현] (https://github.com/studyhard01)
 - [문진혁] (https://github.com/wlsgur11)
 
+  
+| [조현성](https://github.com/hyunsung1221) | [김수현](https://github.com/ksusuhyun) | [손석현](https://github.com/) | [하석현](https://github.com/studyhard01) | [문진혁](https://github.com/wlsgur11) |
+| :-----------------------------------------: | :------------------------------------: | :------------------------------------: | :------------------------------------: | :------------------------------------: |
+| <img src="https://github.com/hyunsung1221.png" width="100"> | <img src="https://github.com/ksusuhyun.png" width="100"> | <img src="https://github.com.png" width="100"> | <img src="https://github.com/studyhard01.png" width="100"> |  <img src="https://github.com/wlsgur11.png" width="100"> |
+
 
 ## 타임라인
 - ~10/1 : 프로젝트 진행을 위한 사전 정보, 데이터 조사
