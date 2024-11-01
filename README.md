@@ -15,8 +15,9 @@
 ## 멤버
 - [조현성] (https://github.com/hyunsung1221)
 - [김수현] (https://github.com/ksusuhyun)
-- [손석현] (https://github.com/wlsgur11)
+- [손석현] (https://github.com/)
 - [하석현] (https://github.com/studyhard01)
+- [문진혁] (https://github.com/wlsgur11)
 
 
 ## 타임라인
