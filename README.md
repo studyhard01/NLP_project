@@ -15,7 +15,7 @@
 ## 멤버
 - [조현성] (https://github.com/hyunsung1221)
 - [김수현] (https://github.com/ksusuhyun)
-- [손석현]
+- [손석현] (https://github.com/wlsgur11)
 - [하석현] (https://github.com/studyhard01)
 
 
